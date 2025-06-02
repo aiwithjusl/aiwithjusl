@@ -17,7 +17,7 @@ I'm focused on building smart, practical, and scalable tools using AI and Python
 ---
 
 ## 📜 Certifications
-- Microsoft Certified: Azure AI Engineer Associate ([See Credential](https://www.credly.com/badges/f5e93ecf-f2c7-41e5-984d-dde20313fd09))
+- Microsoft Certified: Azure AI Engineer Associate ([See Credential](https://learn.microsoft.com/api/credentials/share/en-us/JustinLane-2922/BD501FB13C8F20E0?sharingId=12A2F6E37E3F31ED))
 - Python Institute: PCEP (Completed), PCPP1 & PCPP2 *(In Progress)*
 - HarvardX: CS & AI Certification *(Upcoming)*
 
