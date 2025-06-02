@@ -24,10 +24,11 @@ I'm focused on building smart, practical, and scalable tools using AI and Python
 ---
 
 ## 🌐 About Me
-- 💻 Former Azure AI dev | Experienced in Python, C++
+- 💻 Microsoft Certified Azure AI Engineer
+- 🧑‍💻 Experience programming Python and C++ in Azure (professional and personal projects)
 - 🧠 Passionate about automating, optimizing, and educating
 - 🌏 Remote-first | Open to global opportunities
-- 📬 Contact: `aiwithjusl.dev@gmail.com`
+- 📬 Contact: aiwithjusl.dev@gmail.com
 
 ---
 
