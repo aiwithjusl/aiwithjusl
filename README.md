@@ -8,32 +8,46 @@ I'm focused on building smart, practical, and scalable tools using AI and Python
 
 ## 🚀 Current Project
 ### 🔧 [AI DevToolBox](https://github.com/aiwithjusl/ai-dev-toolbox)
-> A modular Python toolbox to accelerate AI development — includes debugging, NLP utilities, data cleaning, vector store tools, and task runners.
+> A modular Python toolkit to accelerate AI workflows — includes NLP preprocessing, debugging, data cleaning, vector database search, and task automation.
 
-- ✨ Built for real-world AI development
+- ✨ Built for real-world AI prototyping
 - 🌍 Designed for global, remote collaboration
-- 🧰 Created to showcase senior-level skill in Python, documentation, and architecture
+- 🧰 Created to showcase production-level skills in Python, architecture, and software engineering best practices
+
+---
+
+## 🛠️ Skills
+- Python | NLP | FAISS | LangDetect | TextBlob  
+- Debugging | Automation | Task Runners  
+- Data Cleaning | Vector Search  
+- Cloud AI (Azure AI Engineer Certified)
 
 ---
 
 ## 📜 Certifications
-- Microsoft Certified: Azure AI Engineer Associate ([See Credential](https://learn.microsoft.com/api/credentials/share/en-us/JustinLane-2922/BD501FB13C8F20E0?sharingId=12A2F6E37E3F31ED))
-- Python Institute: PCEP (Completed), PCPP1 & PCPP2 *(In Progress)*
-- HarvardX: CS & AI Certification *(Upcoming)*
+- Microsoft Certified: Azure AI Engineer Associate ([View Credential](https://learn.microsoft.com/api/credentials/share/en-us/JustinLane-2922/BD501FB13C8F20E0?sharingId=12A2F6E37E3F31ED))
+- Python Institute: PCEP *(Completed)*, PCPP1 & PCPP2 *(In Progress)*
+- HarvardX: CS & AI Professional Certificate *(Upcoming)*
 
 ---
 
 ## 🌐 About Me
 - 💻 Microsoft Certified Azure AI Engineer
-- 🧑‍💻 Experience programming Python and C++ in Azure (professional and personal projects)
-- 🧠 Passionate about automating, optimizing, and educating
+- 🧑‍💻 Experience programming in Python and C++ for cloud-based AI projects
+- 🧠 Passionate about process automation, NLP, and scalable AI tooling
 - 🌏 Remote-first | Open to global opportunities
-- 📬 Contact: aiwithjusl.dev@gmail.com
+- 📬 Reach me at: aiwithjusl.dev@gmail.com
 
 ---
 
 ## 📌 Goals
-- 🔨 Build reusable AI tools
-- 💡 Contribute to open-source AI projects
-- 🧪 Experiment with NLP, automation, and LLMs
+- 🔨 Build reusable AI and DevOps tools
+- 💡 Contribute to open-source AI/NLP projects
+- 🧪 Experiment with LLMs and vector databases
 - 🌟 Land a remote AI/CS/dev role and grow from there
+
+---
+
+## 🌐 Let's Connect
+[📎 LinkedIn](https://www.linkedin.com/in/justin-lane-69b960219)  
+[💻 GitHub](https://github.com/aiwithjusl)
