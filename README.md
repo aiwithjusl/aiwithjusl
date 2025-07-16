@@ -18,7 +18,6 @@ I’m focused on building smart, scalable, and globally adaptable tools using AI
 
 > **Built for AI devs, data scientists, and engineers who value simplicity + utility.**
 
-&nbsp;
 
 ### 🧬 [Persona Architect](https://github.com/aiwithjusl/persona-architect)
 > An **LLM persona designer** and prompt-builder framework.
