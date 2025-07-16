@@ -1,6 +1,6 @@
 # Hi, I'm Justin | `@aiwithjusl`
 
-*AI Developer • Python Enthusiast • Remote-First Creator*
+*AI Developer • Python & NLP Engineer • Remote-First Creator*
 
 I’m focused on building smart, scalable, and globally adaptable tools using AI and Python. My mission is to create clean, efficient solutions that perform across industries, languages, and environments.
 
