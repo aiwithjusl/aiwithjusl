@@ -6,13 +6,28 @@ I’m focused on building smart, scalable, and globally adaptable tools using AI
 
 ---
 
-## 🚀 Current Project
-### [AI DevToolBox](https://github.com/aiwithjusl/ai-dev-toolbox)
-> A modular Python toolkit to accelerate AI workflows — includes NLP preprocessing, debugging, data cleaning, vector database search, and task automation.
+## 🚀 Featured Projects
 
-- Built for real-world AI prototyping  
-- Designed for global, remote collaboration  
-- Showcases production-level Python, architecture, and software engineering best practices  
+### 🔧 [AI DevToolBox](https://github.com/aiwithjusl/ai-dev-toolbox)
+> **Modular Python toolkit** for NLP, debugging, data cleaning, and vector-based search.
+
+- 🧠 NLP preprocessing utilities
+- 🔍 Vector-based semantic search support
+- 🛠️ Error tracing & prompt enhancement tools
+- 🌐 MIT Licensed and open to contributions
+
+> **Built for AI devs, data scientists, and engineers who value simplicity + utility.**
+
+&nbsp;
+
+### 🧬 [Persona Architect](https://github.com/aiwithjusl/persona-architect)
+> An **LLM persona designer** and prompt-builder framework.
+
+- Create reusable AI personas with memory and traits
+- Easily swap personalities or system behaviors
+- Useful for UX prototyping, conversation testing, and LLM experimentation
+
+> 💡 A growing project focused on **LLM interaction design and prompt architecture**.
 
 ---
 
