@@ -1,6 +1,5 @@
-# Hi, I'm Justin | `@aiwithjusl`
-
-# 🚀 AI Developer • Python & NLP Engineer • Remote-First Creator
+# Hi, I'm Justin | 'aiwithjusl' 👋
+## 🚀 AI Developer • Python & NLP Engineer • Remote-First Creator
 
 **Building intelligent, scalable solutions that bridge the gap between cutting-edge AI research and real-world applications.**
 
@@ -19,15 +18,6 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
 
 *Built for AI developers, data scientists, and engineers who value simplicity + utility.*
 
-### 🎯 [Persona Architect](https://github.com/aiwithjusl/persona-architect) | [🌐 Demo](https://aiwithjusl.github.io/persona-architect/)
-**LLM persona designer and prompt-builder framework**
-- 🤖 Create reusable AI personas with memory and behavioral traits
-- 🔄 Dynamic personality switching for different use cases
-- 💬 Session management with conversation history tracking
-- 🧪 Perfect for UX prototyping, conversation testing, and LLM experimentation
-
-*A growing project focused on LLM interaction design and prompt architecture.*
-
 ### 🧠 [Adaptive Code Intelligence Engine](https://github.com/aiwithjusl/Adaptive-Code-Intelligence-Engine) | [🌐 Demo](https://aiwithjusl.github.io/Adaptive-Code-Intelligence-Engine/)
 **AI-powered code analysis with personalized development assistance**
 - 📊 Comprehensive 0-100 code quality scoring system
@@ -37,6 +27,15 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
 - 📱 Mobile-optimized for development on-the-go
 
 *Evolves with your coding patterns to provide increasingly personalized insights.*
+
+### 🎯 [Persona Architect](https://github.com/aiwithjusl/persona-architect) | [🌐 Demo](https://aiwithjusl.github.io/persona-architect/)
+**LLM persona designer and prompt-builder framework**
+- 🤖 Create reusable AI personas with memory and behavioral traits
+- 🔄 Dynamic personality switching for different use cases
+- 💬 Session management with conversation history tracking
+- 🧪 Perfect for UX prototyping, conversation testing, and LLM experimentation
+
+*A growing project focused on LLM interaction design and prompt architecture.*
 
 ### 🔗 [Federated Learning Orchestrator](https://github.com/aiwithjusl/Federated-Learning-Orchestrator) | [🌐 Demo](https://aiwithjusl.github.io/Federated-Learning-Orchestrator/)
 **Privacy-preserving federated learning for mobile devices**
@@ -84,7 +83,7 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
   [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/JustinLane-2922/BD501FB13C8F20E0?sharingId=12A2F6E37E3F31ED)
 
 **In Progress:**
-- 📚 **Python Institute:** PCEP (Completed) | PCPP1 & PCPP2 (In Progress)  
+- 📚 **Python Institute:** PCEP (Completed) | PCPP1 (In Progress)  
 - 🎓 **HarvardX:** Computer Science & AI Certificate (Upcoming)
 
 ---
