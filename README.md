@@ -1,122 +1,68 @@
-# 🚀 AI Developer • Python & NLP Engineer • Remote-First Creator
+# Hi, I'm Justin | `@aiwithjusl`
 
-**Building intelligent, scalable solutions that bridge the gap between cutting-edge AI research and real-world applications.**
+*AI Developer • Python & NLP Engineer • Remote-First Creator*
 
-I'm focused on creating clean, efficient tools using AI and Python that perform across industries, languages, and environments. My mission is to develop modular, production-ready systems that solve complex problems while maintaining simplicity and reliability.
-
----
-
-## 🛠️ **Featured AI & ML Projects**
-
-### 🧠 [AI DevToolBox](https://github.com/aiwithjusl/ai-dev-toolbox) | [🌐 Demo](https://aiwithjusl.github.io/ai-dev-toolbox/)
-**Modular Python toolkit for NLP, debugging, data cleaning, and vector-based search**
-- 🔍 Vector-based semantic search with FAISS integration
-- 🛠️ Intelligent error tracing & prompt enhancement tools  
-- 🧠 Advanced NLP preprocessing utilities
-- 🌐 MIT Licensed and contribution-ready
-
-*Built for AI developers, data scientists, and engineers who value simplicity + utility.*
-
-### 🧠 [Adaptive Code Intelligence Engine](https://github.com/aiwithjusl/Adaptive-Code-Intelligence-Engine) | [🌐 Demo](https://aiwithjusl.github.io/Adaptive-Code-Intelligence-Engine/)
-**AI-powered code analysis with personalized development assistance**
-- 📊 Comprehensive 0-100 code quality scoring system
-- 🔍 Pattern recognition that learns from your coding style
-- 🐛 Predictive bug detection with confidence scoring
-- ⚡ Performance optimization suggestions
-- 📱 Mobile-optimized for development on-the-go
-
-*Evolves with your coding patterns to provide increasingly personalized insights.*
-
-### 🎯 [Persona Architect](https://github.com/aiwithjusl/persona-architect) | [🌐 Demo](https://aiwithjusl.github.io/persona-architect/)
-**LLM persona designer and prompt-builder framework**
-- 🤖 Create reusable AI personas with memory and behavioral traits
-- 🔄 Dynamic personality switching for different use cases
-- 💬 Session management with conversation history tracking
-- 🧪 Perfect for UX prototyping, conversation testing, and LLM experimentation
-
-*A growing project focused on LLM interaction design and prompt architecture.*
-
-### 🔗 [Federated Learning Orchestrator](https://github.com/aiwithjusl/Federated-Learning-Orchestrator) | [🌐 Demo](https://aiwithjusl.github.io/Federated-Learning-Orchestrator/)
-**Privacy-preserving federated learning for mobile devices**
-- 🛡️ Differential privacy with automated budget allocation
-- 🤝 Distributed AI training without centralized data sharing
-- 🔄 Byzantine fault-tolerant model aggregation
-- 📱 SQLite-based storage optimized for mobile deployment
-- 🏆 Production-ready coordinator and participant nodes
-
-*Demonstrates advanced understanding of distributed systems and privacy-preserving ML.*
-
-### 🧠 [Contextual Memory Graph System](https://github.com/aiwithjusl/Contextual-Memory-Graph-System) | [🌐 Demo](https://aiwithjusl.github.io/Contextual-Memory-Graph-System/)
-**Intelligent knowledge graphs with semantic memory retrieval**
-- 🕸️ Automatic entity extraction and relationship detection
-- 🔍 Context-aware semantic search beyond keyword matching
-- 📈 Dynamic importance scoring based on access patterns
-- 💾 Graph-based SQLite storage for mobile deployment
-- 🧠 Self-evolving memory system that improves over time
-
-*Advanced knowledge representation system for AI applications requiring contextual understanding.*
+I’m focused on building smart, scalable, and globally adaptable tools using AI and Python. My mission is to create clean, efficient solutions that perform across industries, languages, and environments.
 
 ---
 
-## 💻 **Technical Expertise**
+## 🚀 Featured Projects
 
-**Core Technologies:**
-- **Languages & Libraries:** Python, C++, FAISS, TextBlob, LangDetect, NumPy, SQLite
-- **AI & ML:** NLP preprocessing, vector search, federated learning, knowledge graphs, task automation
-- **Software Engineering:** Modular architecture, debugging tools, test-driven development, mobile optimization
-- **Cloud & DevOps:** Azure AI services, remote deployment strategies
+### 🔧 [AI DevToolBox](https://github.com/aiwithjusl/ai-dev-toolbox)
+> **Modular Python toolkit** for NLP, debugging, data cleaning, and vector-based search.
 
-**Specialized Skills:**
-- Privacy-preserving machine learning
-- Distributed systems architecture  
-- Code intelligence and analysis
-- Mobile AI application development
-- Production-ready AI tooling
+- 🧠 NLP preprocessing utilities
+- 🔍 Vector-based semantic search support
+- 🛠️ Error tracing & prompt enhancement tools
+- 🌐 MIT Licensed and open to contributions
 
----
+> **Built for AI devs, data scientists, and engineers who value simplicity + utility.**
 
-## 🏆 **Certifications & Education**
 
-**Current Certifications:**
-- ✅ **Microsoft Certified: Azure AI Engineer Associate**  
-  [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/JustinLane-2922/BD501FB13C8F20E0?sharingId=12A2F6E37E3F31ED)
+### 🧬 [Persona Architect](https://github.com/aiwithjusl/persona-architect)
+> An **LLM persona designer** and prompt-builder framework.
 
-**In Progress:**
-- 📚 **Python Institute:** PCEP (Completed) | PCPP1 & PCPP2 (In Progress)  
-- 🎓 **HarvardX:** Computer Science & AI Certificate (Upcoming)
+- Create reusable AI personas with memory and traits
+- Easily swap personalities or system behaviors
+- Useful for UX prototyping, conversation testing, and LLM experimentation
+
+> 💡 A growing project focused on **LLM interaction design and prompt architecture**.
 
 ---
 
-## 🎯 **What I Bring to Your Team**
-
-- **Production-Ready Solutions:** All projects demonstrate end-to-end development from concept to deployable systems
-- **Mobile-First AI Development:** Specialized in creating AI tools that work efficiently on mobile devices
-- **Privacy & Security Focus:** Deep understanding of federated learning and differential privacy
-- **Open Source Leadership:** Actively maintaining MIT-licensed projects with clear documentation
-- **Cross-Industry Adaptability:** Tools designed to work across languages, industries, and environments
+## 🛠️ Skills
+- **Languages & Libraries**: Python, FAISS, TextBlob, LangDetect  
+- **AI & NLP**: NLP preprocessing, vector search, task automation  
+- **Software Engineering**: Modular architecture, debugging, test-driven development  
+- **Cloud & DevOps**: Azure AI (Certified), remote deployment
 
 ---
 
-## 🌍 **Open to Global Opportunities**
-
-**Remote-first | Available worldwide**
-
-I'm passionate about:
-- 🔧 Building reusable AI and DevOps tools
-- 🌟 Contributing to open-source AI/NLP projects  
-- 🧪 Experimenting with LLMs and vector databases
-- 🚀 Securing a remote AI/ML/development role with growth potential and meaningful impact
+## 📜 Certifications
+- ✅ Microsoft Certified: Azure AI Engineer Associate  
+  [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/JustinLane-2922/BD501FB13C8F20E0?sharingId=12A2F6E37E3F31ED)  
+- Python Institute: PCEP *(Completed)* | PCPP1 & PCPP2 *(In Progress)*  
+- HarvardX: Computer Science & AI Certificate *(Upcoming)*
 
 ---
 
-## 📬 **Let's Connect**
-
-**Ready to discuss how I can contribute to your team's AI initiatives:**
-
-📧 **Email:** [aiwithjusl.dev@gmail.com](mailto:aiwithjusl.dev@gmail.com)  
-🔗 **LinkedIn:** [Justin Lane](https://www.linkedin.com/in/justin-lane-69b960219)  
-💼 **Portfolio:** All projects include live demos and comprehensive documentation
+## 🌐 About Me
+- Microsoft Certified Azure AI Engineer  
+- Strong in Python + C++ for cloud-based AI tooling  
+- Passionate about process automation, NLP, and open-source  
+- Remote-first | Open to global roles  
+- Reach me at: **aiwithjusl.dev@gmail.com**
 
 ---
 
-*"Building the future of AI, one modular solution at a time."* ⚡
+## 📌 Goals
+- Build reusable AI and DevOps tools  
+- Contribute to open-source AI/NLP projects  
+- Experiment with LLMs and vector stores  
+- Secure a remote AI/CS/dev role and grow with impact  
+
+---
+
+## 🌐 Let’s Connect
+- [📎 LinkedIn](https://www.linkedin.com/in/justin-lane-69b960219)  
+- [💻 GitHub](https://github.com/aiwithjusl)
