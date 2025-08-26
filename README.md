@@ -28,6 +28,15 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
 
 *Evolves with your coding patterns to provide increasingly personalized insights.*
 
+### 🧠 [Semantic Compression & Retrieval System](https://github.com/aiwithjusl/Semantic-Compression-Retrieval-System) | [🌐 Demo](https://aiwithjusl.github.io/Semantic-Compression-Retrieval-System/)
+**Mobile-first AI system for semantic compression and intent-based retrieval**
+- 🗜️ Compresses data by 60–85% while preserving semantic meaning
+- 🔍 Intent-driven search using cosine similarity and contextual relevance
+- 📱 Lightweight, offline-ready architecture optimized for mobile use
+- 🧠 Includes semantic clustering, embedding generation, and real-time retrieval engine
+
+*Redefines what’s possible for storage and retrieval in constrained environments.*
+
 ### 🎯 [Persona Architect](https://github.com/aiwithjusl/persona-architect) | [🌐 Demo](https://aiwithjusl.github.io/persona-architect/)
 **LLM persona designer and prompt-builder framework**
 - 🤖 Create reusable AI personas with memory and behavioral traits
