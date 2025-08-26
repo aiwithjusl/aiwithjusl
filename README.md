@@ -71,10 +71,10 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
 ## 💻 **Technical Expertise**
 
 **Core Technologies:**
-- **Languages & Libraries:** Python, FAISS, TextBlob, LangDetect, NumPy, SQLite
-- **AI & ML:** NLP preprocessing, vector search, federated learning, knowledge graphs, task automation
-- **Software Engineering:** Modular architecture, debugging tools, test-driven development, mobile optimization
-- **Cloud & DevOps:** Azure AI services, remote deployment strategies
+- **Languages & Libraries:** Python, JavaScript (ES6+), WebAssembly (planned), FAISS, TextBlob, LangDetect, NumPy, SQLite
+- **AI & ML:** NLP preprocessing, vector search, federated learning, knowledge graphs, task automation, semantic compression, contextual embeddings, intent-based retrieval
+- **Software Engineering:** Modular architecture, debugging tools, test-driven development, mobile optimization, client-side processing, offline-first design, semantic clustering
+- **Cloud & DevOps:** Azure AI services, remote deployment strategies, static web hosting, service worker caching (planned)
 
 **Specialized Skills:**
 - Privacy-preserving machine learning
