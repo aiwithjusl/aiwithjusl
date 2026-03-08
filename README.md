@@ -91,9 +91,13 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
 - ✅ **Microsoft Certified: Azure AI Engineer Associate**  
   [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/JustinLane-2922/BD501FB13C8F20E0?sharingId=12A2F6E37E3F31ED)
 
-**In Progress:**
-- 📚 **Python Institute:** PCEP (Completed) | PCPP1 (In Progress)  
-- 🎓 **HarvardX:** Computer Science & AI Certificate (Upcoming)
+**Certification Path (In Progress):**
+- 📚 **Python Institute – PCPP1: Certified Professional in Python Programming (In Progress)**  
+  Completed coursework: Python Essentials 1, Python Essentials 2, Advanced Object-Oriented Programming
+
+- 🎓 **HarvardX:** Computer Science & AI Certificate (In Progress)
+
+---
 
 ---
 
