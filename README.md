@@ -99,8 +99,6 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
 
 ---
 
----
-
 ## 🎯 **What I Bring to Your Team**
 
 - **Production-Ready Solutions:** All projects demonstrate end-to-end development from concept to deployable systems
