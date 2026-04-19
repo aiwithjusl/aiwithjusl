@@ -93,7 +93,7 @@ I'm focused on creating clean, efficient tools using AI and Python that perform 
 
 **Certification Path (In Progress):**
 - 📚 **Python Institute – PCPP1: Certified Professional in Python Programming (In Progress)**  
-  Completed coursework: Python Essentials 1, Python Essentials 2, Advanced Object-Oriented Programming, File Processing
+  Completed coursework: Python Essentials 1, Python Essentials 2, Advanced Object-Oriented Programming, File Processing, Best Practices
 
 - 🎓 **HarvardX:** Computer Science & AI Certificate (In Progress)
 
